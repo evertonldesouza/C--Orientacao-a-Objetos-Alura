@@ -1,0 +1,7 @@
+C:\Users\everton.souza\Downloads\c# orientação a objetos\5-Bibliotecas DLLs,nuget\csharppt5-master\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.xml
+C:\Users\everton.souza\Downloads\c# orientação a objetos\5-Bibliotecas DLLs,nuget\csharppt5-master\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.dll
+C:\Users\everton.souza\Downloads\c# orientação a objetos\5-Bibliotecas DLLs,nuget\csharppt5-master\ByteBank.Modelos\bin\Debug\ByteBank.Modelos.pdb
+C:\Users\everton.souza\Downloads\c# orientação a objetos\5-Bibliotecas DLLs,nuget\csharppt5-master\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.AssemblyReference.cache
+C:\Users\everton.souza\Downloads\c# orientação a objetos\5-Bibliotecas DLLs,nuget\csharppt5-master\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\everton.souza\Downloads\c# orientação a objetos\5-Bibliotecas DLLs,nuget\csharppt5-master\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.dll
+C:\Users\everton.souza\Downloads\c# orientação a objetos\5-Bibliotecas DLLs,nuget\csharppt5-master\ByteBank.Modelos\obj\Debug\ByteBank.Modelos.pdb

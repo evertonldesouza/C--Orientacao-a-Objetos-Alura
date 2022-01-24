@@ -1,0 +1,7 @@
+C:\Users\everton.souza\Downloads\c# orientação a objetos\4-Entendendo exceções\csharpexceptions-master\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\everton.souza\Downloads\c# orientação a objetos\4-Entendendo exceções\csharpexceptions-master\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\everton.souza\Downloads\c# orientação a objetos\4-Entendendo exceções\csharpexceptions-master\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\everton.souza\Downloads\c# orientação a objetos\4-Entendendo exceções\csharpexceptions-master\ByteBank\obj\Debug\ByteBank.csproj.AssemblyReference.cache
+C:\Users\everton.souza\Downloads\c# orientação a objetos\4-Entendendo exceções\csharpexceptions-master\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\everton.souza\Downloads\c# orientação a objetos\4-Entendendo exceções\csharpexceptions-master\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\everton.souza\Downloads\c# orientação a objetos\4-Entendendo exceções\csharpexceptions-master\ByteBank\obj\Debug\ByteBank.pdb

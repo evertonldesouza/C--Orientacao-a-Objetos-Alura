@@ -1,0 +1,2 @@
+C:\Users\everton.souza\Downloads\c# orientação a objetos\5-Bibliotecas DLLs,nuget\csharppt5-master\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.AssemblyReference.cache
+C:\Users\everton.souza\Downloads\c# orientação a objetos\5-Bibliotecas DLLs,nuget\csharppt5-master\ByteBank.SistemaAgencia\obj\Debug\ByteBank.SistemaAgencia.csproj.CoreCompileInputs.cache
